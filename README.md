@@ -1,16 +1,11 @@
 # cluck_cluck
 
-The poultry system that'll satisfy all your needs
+The poultry system that'll satisfy all your needs. Built using Flutter
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+By: 
+Nirmal K [GitHub](https://github.com/cyberwizard1001)
+Sumithra S [GitHub](https://github.com/sumithra1306)
+Varadharajan K
+Tarun K B
